@@ -11,8 +11,7 @@
 
 #### Связь со мной:
 - e-mail - send_your_offer@yahoo.com
-- telegram - https://t.me/pustota_fm
-
+- telegram - t.me/se_frontend
 
 
 #### Другое: 
